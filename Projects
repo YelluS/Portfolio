@@ -1,0 +1,13 @@
+📁 azure-data-engineering-portfolio  
+   ├── 📁 etl-pipeline-adf-databricks  
+   │    ├── etl_pipeline_notebook.ipynb  
+   │    ├── pipeline_diagram.png  
+   │    ├── README.md  
+   ├── 📁 data-migration-onprem-azure  
+   │    ├── migration_script.py  
+   │    ├── ADF_pipeline_config.json  
+   │    ├── README.md  
+   ├── 📁 spark-data-processing  
+   │    ├── pyspark_transformation.py  
+   │    ├── dataset_sample.csv  
+   │    ├── README.md  
