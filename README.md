@@ -1,4 +1,3 @@
-# Srikanth Yellu
 # Hi, I'm Srikanth Yellu 👋  
 🚀 Data Engineer | Azure | Spark | Databricks  
 
